@@ -1,7 +1,7 @@
 const nextbtn=document.querySelector('.next-btn');
 const video= document.querySelector('.hero-video');
 
-const movielist=['vedio/hero-1.mp4','vedio/hero-2.mp4','vedio/hero-3.mp4','vedio/hero-4.mp4'];
+const movielist=['vedio/hero-1 (1).mp4','vedio/hero-2 (1).mp4','vedio/hero-3 (1).mp4','vedio/hero-4 (1).mp4'];
 
 let index =0;
 nextbtn.addEventListener('click',function(){
